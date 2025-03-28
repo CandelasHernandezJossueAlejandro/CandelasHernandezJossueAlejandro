@@ -4,7 +4,7 @@ Hi 👋 Soy Jossue Candelas
 Ing. Desarrollo y Gestión de Software
 -------------------------------------
 
-Mi gusto por la programación y todo lo relacionado al mundo de la tecnología comenzó con mi gusto por los videojuegos, el mundo geek y mi habilidad para instalar Whatsapp en el teléfono (según mis padres). Pero no fue hasta la preparatoria que comencé a escribir código y entonces me gradué como "Técnico en Programación". Continuando con mi desarrollo profesional entré a la Universidad Tecnológica del Valle de Toluca donde he podido cursar la carrera de Ingeniero en Desarrollo y Gestión de Software y donde supe más de que se trataba este mundo. 
+Mi entusiasmo por la programación y todo lo relacionado al mundo de la tecnología comenzó con mi gusto por los videojuegos, el mundo geek y mi habilidad para instalar Whatsapp en el teléfono (según mis padres). Pero no fue hasta la preparatoria que comencé a escribir código y entonces me gradué como "Técnico en Programación". Continuando con mi desarrollo profesional entré a la Universidad Tecnológica del Valle de Toluca donde he podido cursar la carrera de Ingeniero en Desarrollo y Gestión de Software y donde supe más de que se trataba este mundo. 
 
 Desde entonces no he perdido el entusiasmo y la motivación para seguir desarrollarme en esté gran mundo de la programación y el desarrollo software. 😋
 
