@@ -13,7 +13,7 @@ Desde entonces no he perdido el entusiasmo y la motivación para seguir desarrol
 * 🧠  "Junior" aprendiendo todo lo relacionado a JavaScript y Flutter.
 * 🤝  Quiero colaborar en Proyectos que me permitan desarrollarme y convertirme en un buen "Senior"
 
-### Skills
+### Tecnologías
 
 
 <p align="left">
