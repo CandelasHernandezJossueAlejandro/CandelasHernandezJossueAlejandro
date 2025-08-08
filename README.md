@@ -1,4 +1,4 @@
-Hi 👋 Soy Jossue Candelas
+Hola! 👋 Soy Jossue Candelas
 ================================
 
 Ing. Desarrollo y Gestión de Software
